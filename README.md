@@ -37,9 +37,8 @@ This repository contains a Streamlit-based application for predicting Bitcoin pr
 
 ### Steps
 1. Clone the repository:
-
-   git clone https://github.com/your-username/bitcoin-prediction-app.git
-   cd bitcoin-prediction-app
+   git clone https://github.com/ibtisdl/Bitcoin_price_analysis.git
+   cd Bitcoin_price_analysis
 
 2. Install dependencies:
  
