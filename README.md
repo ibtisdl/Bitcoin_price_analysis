@@ -84,6 +84,8 @@ Optional:
 
 ## Example Screenshot
 ![image](https://github.com/user-attachments/assets/d262a615-9885-4657-b1c2-a25f05de0a6c)
+![image](https://github.com/user-attachments/assets/95494e2f-47ea-4325-a53b-12f8a1002684)
+
 
 
 ## Future Improvements
