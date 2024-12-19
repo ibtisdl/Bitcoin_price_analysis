@@ -61,7 +61,7 @@ This repository contains a Streamlit-based application for predicting Bitcoin pr
 ---
 
 ## Files in Repository
-- `Bitcoin_analysis : Visualisation and model building.
+- `Bitcoin_analysis` : Visualisation and model building.
 - `Interface_implementation.py`: The main application script for the Streamlit app.
 - `bitcoin_model.pkl`: The saved model file (generated after training).
 - `README.md`: Documentation for the project.
